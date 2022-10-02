@@ -1,6 +1,6 @@
 # Counter-JavaScript
 
-Its not a lot too talk about , ist a small project that should have a few options :
+Its not a lot to talk about , ist a small project that should have a few options :
 
 1. You should have two buttons  one is for adding and the second one is for subtracting .
 2. It should not be possible for you to get a negative number as an answer , should have a small window to tell you that its not possible .
